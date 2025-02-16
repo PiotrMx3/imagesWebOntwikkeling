@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": "a1",
     "venomType": "mild",
     "habitat": "regenwoud",
     "lifespan": 12,
@@ -8,7 +8,7 @@
     "researchInfo": "Onderzoek toont aan dat deze spin weinig gevaarlijk is voor mensen."
   },
   {
-    "id": "2",
+    "id": "a2",
     "venomType": "sterk",
     "habitat": "woestijn",
     "lifespan": 8,
@@ -16,7 +16,7 @@
     "researchInfo": "Deze spin wordt intens bestudeerd vanwege zijn unieke jachtstrategieën."
   },
   {
-    "id": "3",
+    "id": "a3",
     "venomType": "mild",
     "habitat": "savanne",
     "lifespan": 10,
@@ -24,7 +24,7 @@
     "researchInfo": "Onderzoek suggereert dat de gouden tarantula minder agressief is."
   },
   {
-    "id": "4",
+    "id": "a4",
     "venomType": "matig",
     "habitat": "bergachtig gebied",
     "lifespan": 15,
@@ -32,7 +32,7 @@
     "researchInfo": "Bekend om zijn felle kleur, wordt deze spin vaak onderzocht voor zijn genetica."
   },
   {
-    "id": "5",
+    "id": "a5",
     "venomType": "mild",
     "habitat": "bomenrijk bos",
     "lifespan": 7,
@@ -40,7 +40,7 @@
     "researchInfo": "Deze spin wordt beschouwd als een van de meest kleurrijke soorten."
   },
   {
-    "id": "6",
+    "id": "a6",
     "venomType": "matig",
     "habitat": "grasland",
     "lifespan": 9,
@@ -48,7 +48,7 @@
     "researchInfo": "De witte tarantula is onderwerp van studies vanwege zijn zeldzame kleurpatroon."
   },
   {
-    "id": "7",
+    "id": "a7",
     "venomType": "mild",
     "habitat": "moeras",
     "lifespan": 11,
@@ -56,7 +56,7 @@
     "researchInfo": "Onderzoekers bestuderen de blauwheid als een mogelijke aanpassing aan de omgeving."
   },
   {
-    "id": "8",
+    "id": "a8",
     "venomType": "sterk",
     "habitat": "savanne",
     "lifespan": 13,
@@ -64,7 +64,7 @@
     "researchInfo": "Zijn opvallende kleur maakt deze soort een interessant onderwerp voor ecologische studies."
   },
   {
-    "id": "9",
+    "id": "a9",
     "venomType": "matig",
     "habitat": "heuvels",
     "lifespan": 14,
@@ -72,7 +72,7 @@
     "researchInfo": "Deze soort is minder actief, maar heeft een intrigerende levenscyclus."
   },
   {
-    "id": "10",
+    "id": "a10",
     "venomType": "mild",
     "habitat": "stapeland",
     "lifespan": 10,
