@@ -5,7 +5,8 @@
     "habitat": "regenwoud",
     "lifespan": 12,
     "biteRisk": false,
-    "researchInfo": "Onderzoek toont aan dat deze spin weinig gevaarlijk is voor mensen."
+    "researchInfo": "Onderzoek toont aan dat deze spin weinig gevaarlijk is voor mensen.",
+    "LifeType": "Bodembewoners"
   },
   {
     "id": "a2",
@@ -13,7 +14,8 @@
     "habitat": "woestijn",
     "lifespan": 8,
     "biteRisk": true,
-    "researchInfo": "Deze spin wordt intens bestudeerd vanwege zijn unieke jachtstrategieën."
+    "researchInfo": "Deze spin wordt intens bestudeerd vanwege zijn unieke jachtstrategieën.",
+    "LifeType": "Bodembewoners"
   },
   {
     "id": "a3",
@@ -21,7 +23,8 @@
     "habitat": "savanne",
     "lifespan": 10,
     "biteRisk": false,
-    "researchInfo": "Onderzoek suggereert dat de gouden tarantula minder agressief is."
+    "researchInfo": "Onderzoek suggereert dat de gouden tarantula minder agressief is.",
+    "LifeType": "Bodembewoners"
   },
   {
     "id": "a4",
@@ -29,7 +32,8 @@
     "habitat": "bergachtig gebied",
     "lifespan": 15,
     "biteRisk": true,
-    "researchInfo": "Bekend om zijn felle kleur, wordt deze spin vaak onderzocht voor zijn genetica."
+    "researchInfo": "Bekend om zijn felle kleur, wordt deze spin vaak onderzocht voor zijn genetica.",
+    "LifeType": "Bodembewoners"
   },
   {
     "id": "a5",
@@ -37,7 +41,8 @@
     "habitat": "bomenrijk bos",
     "lifespan": 7,
     "biteRisk": false,
-    "researchInfo": "Deze spin wordt beschouwd als een van de meest kleurrijke soorten."
+    "researchInfo": "Deze spin wordt beschouwd als een van de meest kleurrijke soorten.",
+    "LifeType": "Boombewoners"
   },
   {
     "id": "a6",
@@ -45,7 +50,8 @@
     "habitat": "grasland",
     "lifespan": 9,
     "biteRisk": false,
-    "researchInfo": "De witte tarantula is onderwerp van studies vanwege zijn zeldzame kleurpatroon."
+    "researchInfo": "De witte tarantula is onderwerp van studies vanwege zijn zeldzame kleurpatroon.",
+    "LifeType": "Bodembewoners"
   },
   {
     "id": "a7",
@@ -53,7 +59,8 @@
     "habitat": "moeras",
     "lifespan": 11,
     "biteRisk": false,
-    "researchInfo": "Onderzoekers bestuderen de blauwheid als een mogelijke aanpassing aan de omgeving."
+    "researchInfo": "Onderzoekers bestuderen de blauwheid als een mogelijke aanpassing aan de omgeving.",
+    "LifeType": "Bodembewoners"
   },
   {
     "id": "a8",
@@ -61,7 +68,8 @@
     "habitat": "savanne",
     "lifespan": 13,
     "biteRisk": true,
-    "researchInfo": "Zijn opvallende kleur maakt deze soort een interessant onderwerp voor ecologische studies."
+    "researchInfo": "Zijn opvallende kleur maakt deze soort een interessant onderwerp voor ecologische studies.",
+    "LifeType": "Bodembewoners"
   },
   {
     "id": "a9",
@@ -69,7 +77,8 @@
     "habitat": "heuvels",
     "lifespan": 14,
     "biteRisk": false,
-    "researchInfo": "Deze soort is minder actief, maar heeft een intrigerende levenscyclus."
+    "researchInfo": "Deze soort is minder actief, maar heeft een intrigerende levenscyclus.",
+    "LifeType": "Boombewoners"
   },
   {
     "id": "a10",
@@ -77,6 +86,7 @@
     "habitat": "stapeland",
     "lifespan": 10,
     "biteRisk": false,
-    "researchInfo": "Onderzoekers waarderen de paarse tarantula vanwege zijn unieke kleur en gedrag."
+    "researchInfo": "Onderzoekers waarderen de paarse tarantula vanwege zijn unieke kleur en gedrag.",
+    "LifeType": "Ondergronds levend"
   }
 ]
