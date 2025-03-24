@@ -6,7 +6,7 @@
     "lifespan": 12,
     "biteRisk": false,
     "researchInfo": "Onderzoek toont aan dat deze spin weinig gevaarlijk is voor mensen.",
-    "LifeType": "Bodembewoners"
+    "lifeType": "Bodembewoners"
   },
   {
     "id": "a2",
@@ -15,7 +15,7 @@
     "lifespan": 8,
     "biteRisk": true,
     "researchInfo": "Deze spin wordt intens bestudeerd vanwege zijn unieke jachtstrategieën.",
-    "LifeType": "Bodembewoners"
+    "lifeType": "Bodembewoners"
   },
   {
     "id": "a3",
@@ -24,7 +24,7 @@
     "lifespan": 10,
     "biteRisk": false,
     "researchInfo": "Onderzoek suggereert dat de gouden tarantula minder agressief is.",
-    "LifeType": "Bodembewoners"
+    "lifeType": "Bodembewoners"
   },
   {
     "id": "a4",
@@ -33,7 +33,7 @@
     "lifespan": 15,
     "biteRisk": true,
     "researchInfo": "Bekend om zijn felle kleur, wordt deze spin vaak onderzocht voor zijn genetica.",
-    "LifeType": "Bodembewoners"
+    "lifeType": "Bodembewoners"
   },
   {
     "id": "a5",
@@ -42,7 +42,7 @@
     "lifespan": 7,
     "biteRisk": false,
     "researchInfo": "Deze spin wordt beschouwd als een van de meest kleurrijke soorten.",
-    "LifeType": "Boombewoners"
+    "lifeType": "Boombewoners"
   },
   {
     "id": "a6",
@@ -51,7 +51,7 @@
     "lifespan": 9,
     "biteRisk": false,
     "researchInfo": "De witte tarantula is onderwerp van studies vanwege zijn zeldzame kleurpatroon.",
-    "LifeType": "Bodembewoners"
+    "lifeType": "Bodembewoners"
   },
   {
     "id": "a7",
@@ -60,7 +60,7 @@
     "lifespan": 11,
     "biteRisk": false,
     "researchInfo": "Onderzoekers bestuderen de blauwheid als een mogelijke aanpassing aan de omgeving.",
-    "LifeType": "Bodembewoners"
+    "lifeType": "Bodembewoners"
   },
   {
     "id": "a8",
@@ -69,7 +69,7 @@
     "lifespan": 13,
     "biteRisk": true,
     "researchInfo": "Zijn opvallende kleur maakt deze soort een interessant onderwerp voor ecologische studies.",
-    "LifeType": "Bodembewoners"
+    "lifeType": "Bodembewoners"
   },
   {
     "id": "a9",
@@ -78,7 +78,7 @@
     "lifespan": 14,
     "biteRisk": false,
     "researchInfo": "Deze soort is minder actief, maar heeft een intrigerende levenscyclus.",
-    "LifeType": "Boombewoners"
+    "lifeType": "Boombewoners"
   },
   {
     "id": "a10",
@@ -87,6 +87,6 @@
     "lifespan": 10,
     "biteRisk": false,
     "researchInfo": "Onderzoekers waarderen de paarse tarantula vanwege zijn unieke kleur en gedrag.",
-    "LifeType": "Ondergronds levend"
+    "lifeType": "Ondergronds levend"
   }
 ]
