@@ -9,7 +9,7 @@
     "voeding": "Insecten en kleine ongewervelden",
     "bedreiging": "Laag",
     "text": "Boombewoners spinnen leven in de hoge takken en onder het dichte bladerdak van bossen. Ze hebben zich uitstekend aangepast aan een leven hoog in de bomen, waar ze hun behendigheid en camouflage gebruiken om roofdieren te ontwijken en prooien te besluipen. De complexe structuur van de boomkruinen biedt hen een overvloed aan schuilplaatsen en voedselbronnen.",
-    "imageUrl": "https://raw.githubusercontent.com/PiotrMx3/imagesWebOntwikkeling/refs/heads/main/images/boom.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/PiotrMx3/imagesWebOntwikkeling/refs/heads/main/images/Boombewoners.jpg"
   },
   {
     "id": "2",
@@ -21,7 +21,7 @@
     "voeding": "Insecten en kleine dieren",
     "bedreiging": "Variabel",
     "text": "Bodembewoners spinnen leven op de grond en maken vaak gebruik van holen of natuurlijke schuilplaatsen. Ze zijn bedreven in het besluipen van prooien op de open vlakte of in rotsachtige omgevingen. Hun vermogen tot camouflage en snelle beweging helpt hen overleven in wisselende omstandigheden, van warme woestijngebieden tot gematigde graslanden.",
-    "imageUrl": "https://raw.githubusercontent.com/PiotrMx3/imagesWebOntwikkeling/refs/heads/main/images/bodem.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/PiotrMx3/imagesWebOntwikkeling/refs/heads/main/images/Bodembewoners.jpg"
   },
   {
     "id": "3",
@@ -33,6 +33,6 @@
     "voeding": "Insecten",
     "bedreiging": "Laag",
     "text": "Ondergronds levend spinnen hebben zich gespecialiseerd in het leven onder de grond, waar de temperatuur en vochtigheid constant blijven. Ze graven uitgebreide tunnels en holen, die dienen als veilige schuilplaatsen tegen roofdieren en extreme weersomstandigheden. Deze spinnen maken efficiënt gebruik van hun omgeving door prooien te lokaliseren in de schaduwrijke en vochtige omstandigheden van de ondergrond.",
-    "imageUrl": "https://raw.githubusercontent.com/PiotrMx3/imagesWebOntwikkeling/refs/heads/main/images/ondergronds.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/PiotrMx3/imagesWebOntwikkeling/refs/heads/main/images/Ondergronds.jpg"
   }
 ]
